@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NotDamian
+- 👀 I’m interested in web, tech, phones and sport
+- 🌱 I’m currently learning javascript, python and  some c++
