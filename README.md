@@ -11,9 +11,9 @@ Basic:
 <p> <img src="https://img.icons8.com/color/50/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </p>
 
 <h2>😎 At Free Time</h2>
-- running 🏃 
-- games 🎮
-- movie/TV series 🎬
+running 🏃 ,
+games 🎮 ,
+movie/TV series 🎬
 
 <h2>✉️ Contact Me </h2>
 -Linkedin soon
