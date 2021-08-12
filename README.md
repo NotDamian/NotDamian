@@ -1,7 +1,7 @@
 <h1>👋  Hi, I’m Damian</h1>
 
 <h2>👨 About Me </h2>
-I'm an IT student with programming specialization 💻 at "Wyższa szkola zarządzania Edukacja" at Wroclaw. 
+I'm an IT student with programming specialization 💻  at "Wyższa szkola zarządzania Edukacja" at Wroclaw. 
 
 <h2>🛠  Tech Stack</h2>
 <p><img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <p>
